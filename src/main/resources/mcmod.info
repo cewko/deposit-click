@@ -1,0 +1,11 @@
+[
+{
+  "modid": "depositclick",
+  "name": "Deposit Click",
+  "description": "replicate hypixel's left-click-to-deposit on any server",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/cewko/deposit-click",
+  "authorList": ["cewko"]
+}
+]
